@@ -1,3 +1,9 @@
-*.shader linguist-detectable=false
-*.cginc linguist-detectable=false
-*.compute linguist-detectable=false
+*.shader linguist-documentation
+*.cginc linguist-documentation
+*.compute linguist-documentation
+*.mat linguist-documentation
+*.meta linguist-documentation
+*.unity linguist-documentation
+*.asset linguist-documentation
+*.shader linguist-language=C#
+*.cginc linguist-language=C#
